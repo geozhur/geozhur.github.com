@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GeoZhur</title>
-    <link>http://localhost:1313/index.xml</link>
+    <link>https://geozhur.github.io/index.xml</link>
     <description>Recent content on GeoZhur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 26 Nov 2016 15:54:12 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://geozhur.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Code</title>
-      <link>http://localhost:1313/code/</link>
+      <link>https://geozhur.github.io/code/</link>
       <pubDate>Sat, 26 Nov 2016 15:54:12 +0100</pubDate>
       
-      <guid>http://localhost:1313/code/</guid>
+      <guid>https://geozhur.github.io/code/</guid>
       <description>&lt;p&gt;JavaScript. Уровень 1&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://geozhur.github.io/geekbrains/JavaScript-Level-1/Lesson-1/&#34;&gt;https://geozhur.github.io/geekbrains/JavaScript-Level-1/Lesson-1/&lt;/a&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>Мои текущие проекты</title>
-      <link>http://localhost:1313/blog/%D0%BC%D0%BE%D0%B8-%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/</link>
+      <link>https://geozhur.github.io/blog/%D0%BC%D0%BE%D0%B8-%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/</link>
       <pubDate>Sat, 26 Nov 2016 15:22:49 +0100</pubDate>
       
-      <guid>http://localhost:1313/blog/%D0%BC%D0%BE%D0%B8-%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/</guid>
+      <guid>https://geozhur.github.io/blog/%D0%BC%D0%BE%D0%B8-%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/</guid>
       <description>&lt;p&gt;Создал проект по обучению на &lt;a href=&#34;https://geekbrains.ru&#34;&gt;https://geekbrains.ru&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Мой аккаунт Geekbrains на &lt;a href=&#34;https://geekbrains.ru/users/1179152&#34;&gt;https://geekbrains.ru/users/1179152&lt;/a&gt;&lt;/p&gt;
@@ -43,20 +43,20 @@
     
     <item>
       <title>about</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://geozhur.github.io/about/</link>
       <pubDate>Sat, 26 Nov 2016 14:27:06 +0100</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://geozhur.github.io/about/</guid>
       <description>&lt;p&gt;Информация засекречена.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Создал сайт.</title>
-      <link>http://localhost:1313/blog/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BB-%D1%81%D0%B0%D0%B9%D1%82./</link>
+      <link>https://geozhur.github.io/blog/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BB-%D1%81%D0%B0%D0%B9%D1%82./</link>
       <pubDate>Sat, 26 Nov 2016 14:19:23 +0100</pubDate>
       
-      <guid>http://localhost:1313/blog/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BB-%D1%81%D0%B0%D0%B9%D1%82./</guid>
+      <guid>https://geozhur.github.io/blog/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BB-%D1%81%D0%B0%D0%B9%D1%82./</guid>
       <description>&lt;p&gt;Сайт создан в целях сохранить все свои наработки и интеерсные вещи.&lt;/p&gt;
 </description>
     </item>
